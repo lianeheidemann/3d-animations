@@ -1,8 +1,19 @@
-# Bone Animation
+# 3D Animations
 
-<img width="310" src="assets/animation-1_bone.gif" />
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
 
-# Girl Animation
+A collection of 3D animations created in [Blender](https://www.blender.org/).
 
-<img width="610" src="assets/animation-2_girl.gif" />
+## Animations
 
+**Bone Animation**
+
+<img width="240" src="assets/animation-1_bone.gif" alt="3D animation of an articulated bone" />
+
+**Girl Animation**
+
+<img width="450" src="assets/animation-2_girl.gif" alt="3D animation of a female character" />
+
+## Tools
+
+- [Blender](https://www.blender.org/) — modeling, rigging and animation
