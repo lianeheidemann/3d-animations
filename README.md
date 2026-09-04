@@ -1,19 +1,50 @@
 # 3D Animations
 
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
+</p>
 
-A collection of 3D animations created in [Blender](https://www.blender.org/).
+A collection of 3D character and prop animations created in [Blender](https://www.blender.org/), covering modeling, rigging, and keyframe animation.
 
 ## Animations
 
-**Bone Animation**
+### Bone Animation
 
-<img src="bone-animation/animation-2.gif" />
+Skeletal rig used to test bone constraints and a basic walk cycle.
 
-**Girl Animation**
+<img src="bone-animation/animation-2.gif" alt="Bone rig walk cycle animation" width="600">
 
-<img src="girl-animation/animation-2.gif" />
+**Files:** [`bone-animation/blend`](bone-animation/blend)
+
+### Girl Animation
+
+Character animation featuring a rigged girl model interacting with a rose, a lamp, and a notebook prop.
+
+<img src="girl-animation/animation-2.gif" alt="Girl character animation" width="600">
+
+**Files:** [`girl-animation/blend`](girl-animation/blend) · [`girl-animation/glb`](girl-animation/glb) · [`girl-animation/image`](girl-animation/image)
+
+## Project Structure
+
+```
+3d-animations/
+├── bone-animation/
+│   ├── animation-2.gif      # Rendered preview
+│   └── blend/                # Blender source files
+├── girl-animation/
+│   ├── animation-1.gif       # Rendered preview (variant)
+│   ├── animation-2.gif       # Rendered preview
+│   ├── blend/                # Blender source file
+│   ├── glb/                  # Exported 3D models (glTF)
+│   └── image/                # Reference and process images
+└── LICENSE
+```
 
 ## Tools
 
-- [Blender](https://www.blender.org/) — modeling, rigging and animation
+- [Blender](https://www.blender.org/) — modeling, rigging, and animation
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

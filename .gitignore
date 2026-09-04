@@ -1,0 +1,12 @@
+# Blender backup and temp files
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Blender crash/session files
+*.blend.lock
