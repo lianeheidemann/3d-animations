@@ -13,7 +13,7 @@ A collection of 3D character and prop animations created in [Blender](https://ww
 
 Skeletal rig used to test bone constraints and a basic walk cycle.
 
-<img src="bone-animation/animation-2.gif" alt="Bone rig walk cycle animation" width="600">
+<img src="bone-animation/animation-2.gif" alt="Bone rig walk cycle animation" >
 
 **Files:** [`bone-animation/blend`](bone-animation/blend)
 
@@ -21,7 +21,7 @@ Skeletal rig used to test bone constraints and a basic walk cycle.
 
 Character animation featuring a rigged girl model interacting with a rose, a lamp, and a notebook prop.
 
-<img src="girl-animation/animation-2.gif" alt="Girl character animation" width="600">
+<img src="girl-animation/animation-2.gif" alt="Girl character animation" >
 
 **Files:** [`girl-animation/blend`](girl-animation/blend) · [`girl-animation/glb`](girl-animation/glb) · [`girl-animation/image`](girl-animation/image)
 
