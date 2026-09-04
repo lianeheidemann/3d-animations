@@ -1,8 +1,22 @@
-# Bone Animation
+# 3D Animations
 
-<img width="310" src="assets/animation-1_bone.gif" />
+Coleção de animações 3D desenvolvidas no [Blender](https://www.blender.org/).
 
-# Girl Animation
+## Animações
 
-<img width="610" src="assets/animation-2_girl.gif" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Bone Animation</b><br /><br />
+      <img width="280" src="assets/animation-1_bone.gif" alt="Animação 3D de um osso articulado" />
+    </td>
+    <td align="center" width="50%">
+      <b>Girl Animation</b><br /><br />
+      <img width="280" src="assets/animation-2_girl.gif" alt="Animação 3D de uma personagem feminina" />
+    </td>
+  </tr>
+</table>
 
+## Ferramentas
+
+- [Blender](https://www.blender.org/) — modelagem, rigging e animação
