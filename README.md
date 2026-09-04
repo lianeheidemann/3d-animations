@@ -1,5 +1,7 @@
 # 3D Animations
 
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
+
 Coleção de animações 3D desenvolvidas no [Blender](https://www.blender.org/).
 
 ## Animações
