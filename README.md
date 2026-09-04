@@ -1,6 +1,8 @@
-# 3d_animations
+# Bone Animation
 
-<img width="610" height="1220" alt="1000380183" src="https://github.com/user-attachments/assets/9e2c95da-b1c5-41e6-8636-8b85a5c92870" />
+<img width="310" src="assets/animation-1_bone.gif" />
 
+# Girl Animation
 
-<img width="610" height="1220" alt="1000380184" src="https://github.com/user-attachments/assets/9a2259e3-5cf0-487e-a06f-0e9464d51fdd" />
+<img width="610" src="assets/animation-2_girl.gif" />
+
