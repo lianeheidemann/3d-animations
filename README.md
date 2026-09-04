@@ -25,22 +25,6 @@ Character animation featuring a rigged girl model interacting with a rose, a lam
 
 **Files:** [`girl-animation/blend`](girl-animation/blend) · [`girl-animation/glb`](girl-animation/glb) · [`girl-animation/image`](girl-animation/image)
 
-## Project Structure
-
-```
-3d-animations/
-├── bone-animation/
-│   ├── animation-2.gif      # Rendered preview
-│   └── blend/                # Blender source files
-├── girl-animation/
-│   ├── animation-1.gif       # Rendered preview (variant)
-│   ├── animation-2.gif       # Rendered preview
-│   ├── blend/                # Blender source file
-│   ├── glb/                  # Exported 3D models (glTF)
-│   └── image/                # Reference and process images
-└── LICENSE
-```
-
 ## Tools
 
 - [Blender](https://www.blender.org/) — modeling, rigging, and animation
