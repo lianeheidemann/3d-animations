@@ -11,7 +11,7 @@ A collection of 3D character and prop animations created in [Blender](https://ww
 
 ### Bone Animation
 
-Skeletal rig used to test bone constraints and a basic walk cycle.
+Skeletal rig used to test bone constraints and a basic body movements.
 
 <img src="bone-animation/animation-2.gif" alt="Bone rig walk cycle animation" >
 
