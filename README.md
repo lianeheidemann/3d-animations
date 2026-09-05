@@ -28,7 +28,8 @@ Character animation featuring a rigged girl model interacting with a rose, a lam
 ## Tools
 
 - [Blender](https://www.blender.org/) — modeling, rigging, and animation
-
+- [Meshy](https://www.meshy.ai/) — AI 3D Model Generator: Create 3D from Text & Images
+- 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
